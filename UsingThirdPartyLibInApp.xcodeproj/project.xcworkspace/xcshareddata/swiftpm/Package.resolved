@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ActivityIndicatorView",
+        "repositoryURL": "https://github.com/exyte/ActivityIndicatorView.git",
+        "state": {
+          "branch": null,
+          "revision": "9970fd0bb7a05dad0b6566ae1f56937716686b24",
+          "version": "1.1.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
